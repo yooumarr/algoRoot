@@ -2,17 +2,14 @@
 
 The directory structure for the project looks like:
 
+<pre>
 algoroot/
-
-├── functions.py       # Predefined functions
-
-├── rag.py             # RAG model
-
-├── code_gen.py        # Code generation
-
-├── api.py             # FastAPI API service
-
-├── main.py            # Main file
+├── functions.py # Predefined functions
+├── rag.py       # RAG model
+├── code_gen.py  # Code generation
+├── api.py       # FastAPI API service
+└── main.py      # Main file
+</pre>
 
 Example Usage 1: 
 ![Screenshot (5)](https://github.com/user-attachments/assets/cc46092c-4416-4476-9e80-ae82055ed11b)
